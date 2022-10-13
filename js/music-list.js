@@ -13,37 +13,37 @@ let allMusic = [
   {
     name: "English Songs Jukebox",
     artist: "Lohitaksh",
-    img: "player1",
+    img: "song1",
     src: "song1"
   },
   {
     name: "Mind Relax Mashup",
     artist: "Lohitaksh",
-    img: "player2",
+    img: "song2",
     src: "song2"
   },
   {
     name: "Alone Sad Jukebox",
     artist: "Lohitaksh",
-    img: "player3",
+    img: "song3",
     src: "song3"
   },
   {
     name: "Best of Arijit Singh",
     artist: "Arijit Singh",
-    img: "player4",
+    img: "song4",
     src: "song4"
   },
   {
     name: "Punjabi Mashup",
     artist: "Lohitaksh",
-    img: "player5",
+    img: "song5",
     src: "song5"
   },
   {
     name: "Party Mashup",
     artist: "Lohitaksh",
-    img: "player6",
+    img: "song6",
     src: "song6"
   },
   // like this paste it and remember to give comma after ending of this bracket }
