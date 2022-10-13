@@ -29,8 +29,8 @@ let allMusic = [
     src: "song3"
   },
   {
-    name: "Best of Arijit Singh",
-    artist: "Arijit Singh",
+    name: "Love Mashup",
+    artist: "Lohitaksh",
     img: "song4",
     src: "song4"
   },
